@@ -1,5 +1,6 @@
 const router = require('express').Router();
 const { User } = require('../../models');
+const withAuth = require('../../utils/auth');
 
 // Using the POST method to sign up a user ('/api/user)
 router.post('/', async (req, res) => {
@@ -45,7 +46,7 @@ router.post('/login', async (req, res) => {
 });
 
 // Using the POST method to logout the user ('/api/user/logout')
-router.post('/logout', async (req, res) => {
+router.post('/logout', withAuth, async (req, res) => {
     try {
         if (req.session.loggedIn) {
             const dbUserData = await req.session.destroy(() => {
