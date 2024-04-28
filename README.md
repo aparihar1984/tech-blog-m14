@@ -71,13 +71,21 @@ After this, I searched the internet for further information and came across the 
 The process of coding for me involved using code from the activities and websites mentioned above and commenting out every section of code in all of the files to see what each specific block of code accomplished as I was structuring the app in the Model-View-Controller format listed in order below.
 
 Config/connection.js
+
 server.js
+
 db/schema.sql
+
 Models
+
 Utils
+
 Seeds
+
 Controllers/Front and Back end API's
+
 Views/Handlebars
+
 Public (Javascript, then CSS)
 
 This led to a lot of experimentation in order to see what I felt was needed to ultimately complete as much of the Accepted Criteria as possible.  To see if the back end was running properly, I used the POSTMAN app to test the GET, POST, PUT and DELETE methods in all the js files in the controllers/api files.
