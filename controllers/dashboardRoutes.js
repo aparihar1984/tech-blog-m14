@@ -74,7 +74,7 @@ router.get('/edit/:id', withAuth, (req, res) => {
 
 //  Using the GET method to get a new post ('/dashboard/new)
 router.get('/new', withAuth, (req, res) => {
-    res.render('new-post', { username: req.session.username });
+    res.render('add-post', { username: req.session.username });
 });
 
-module.exports = router; 
+module.exports = router;
