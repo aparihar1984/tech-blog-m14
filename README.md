@@ -87,20 +87,20 @@ The experimentation was necessary since it should be pointed out that while the 
 ## Screenshots
 Here are the screenshots from my Postman App:
 
-![Alt text](../tech-blog-m14/screenshots/Dashboard%20Screenshot.png)
+![](../tech-blog-m14/screenshots/Dashboard%20Screenshot.png)
 
-![Alt text](../tech-blog-m14/screenshots/Login%20Screenshot.png)
+![](../tech-blog-m14/screenshots/Login%20Screenshot.png)
 
-![Alt text](../tech-blog-m14/screenshots/Signup%20Screenshot.png)
+![](../tech-blog-m14/screenshots/Signup%20Screenshot.png)
 
-![Alt text](../tech-blog-m14/screenshots/Homepage%20Screenshot.png)
+![](../tech-blog-m14/screenshots/Homepage%20Screenshot.png)
 
-![Alt text](../tech-blog-m14/screenshots/Create_Blog%20Screenshot.png)
+![](../tech-blog-m14/screenshots/Create_Blog%20Screenshot.png)
 
-![Alt text](../tech-blog-m14/screenshots/Edit_Post%20Screenshot.png)
+![](../tech-blog-m14/screenshots/Edit_Post%20Screenshot.png)
 
-![Alt text](../tech-blog-m14/screenshots/Comment%20Screenshot.png)
+![](../tech-blog-m14/screenshots/Comment%20Screenshot.png)
 
-![Alt text](../tech-blog-m14/screenshots/Comment_Displayed%20Screenshot.png)
+![](../tech-blog-m14/screenshots/Comment_Displayed%20Screenshot.png)
 
-![Alt text](../tech-blog-m14/screenshots/Updated_Dashboard%20Screenshot.png)
+![](../tech-blog-m14/screenshots/Updated_Dashboard%20Screenshot.png)
